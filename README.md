@@ -1,4 +1,4 @@
-EAFC Ultimate Team Toolkit
+EAFC Ultimate Team Toolkit - erics copy
 ===============================
 
 ## Sample usage
